@@ -1,0 +1,6 @@
+.estrellas{
+    display: flex;
+}
+.estrellas div i {
+    color: red
+}
